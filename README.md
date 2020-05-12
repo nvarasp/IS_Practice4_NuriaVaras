@@ -1,8 +1,9 @@
 # IS_Practice4_NuriaVaras
  Practice 4 - Multiple displays
 I used the Roll a ball tutorial from P1 and implemented:
+
 Activating "uno": 
--A setup to render the image in a panoramic display, so when two game windows (display 1 and display 2) and opened side to side, you can see the game from these two continuos screens, where display 1 shows the left side and display 2 the right one. 
+- A setup to render the image in a panoramic display, so when two game windows (display 1 and display 2) and opened side to side, you can see the game from these two continuos screens, where display 1 shows the left side and display 2 the right one. 
 
 Activating "dos":
 - I implemented a mini map camera that shows the game from the top view
